@@ -1,7 +1,7 @@
 ---
-name: Adicionar nova vaga
+name: Desenvolvedor Jr
 about: Siga todas as instruções do template antes de abrir a vaga. VAGAS FORA DO TEMPLATE SERÃO EXCLUÍDAS.
-title: "[Cidade] Front-end Developer na Nome da Empresa"
+title: "[APARECIDA DE GOINAI] Front-end Developer na Regra Logistica"
 
 ---
 
@@ -25,78 +25,62 @@ Exemplo: `[São Paulo] Front-End Developer na NOME DA EMPRESA`
 Caso a vaga for remoto durante a pandemia deixar a linha abaixo
 ==================================================
 -->
-> Vaga Remota durante a pandemia
 
 ## Nossa empresa
 
-Exemplo: Aqui na Corporação ACME somos líderes em...
+Somos a maior revenda dos produtos Ambev
 
 ## Descrição da vaga
 
-Exemplo: Projeto bazinga em NodeJS, etc.
+Desenvolvimento em aplicativos ANDROID e IOS, utilizando React Native, JavaScript, node.js. SQL Server, SQLite.
+Criação de aplicativos off-line e on-line.
+Trabalhar com modelos ágeis de desenvolvimento como Scrum.
+Experiencia de usuários com UX/UI Designer
 
 ## Local
 
-Exemplo: Remoto ou Escritório, [ESTADO], [CIDADE], [BAIRRO]
+Escritório, [GOIAS], [APARECIDA DE GOIANIA], [CHACARA SÃO PEDRO]
 
 ## Requisitos
 
 **Obrigatórios:**
-- 3 anos de experiência com Node
-- 2 anos de experiência com mongodb e express
+- Disponibilidade para trabalho presencial
 
 **Desejáveis:**
-- conhecimentos em ruby on rails
-- conhecimentos em C#
+- conhecimentos em criação de aplicativos off-line e on-line
 
 **Diferenciais:**
-- projetos opensource
+-
 
 ## Benefícios
 
 - Plano de saúde
-- Seguro de vida
-- VR de R$ X/dia
-- Auxílio creche
-- ...
+- Plano odontológico
+- VR de R$ 18/dia
+- 
 
 **Diferenciais:**
 - 2 horas de almoço
-- monte a sua máquina como desejar
-- frigobar sempre cheio :P
-- sala de jogos
-- ...
-
+- 
 ## Contratação
 
-PJ a combinar
+CLT R$3.000,00
 
 ## Como se candidatar
 
-Por favor envie um email para email@email.com.br com seu CV anexado - enviar no assunto: Vaga NodeJS
+Por favor envie um email para rh02@regralogistica.com.br com seu CV anexado - enviar no assunto: Desenvolvedor JR
 
 ## Tempo médio de feedbacks
 
-Costumamos enviar feedbacks em até XX dias após cada processo.
-E-mail para contato em caso de não haver resposta: feedbacks@empresasuperlegal.com.br
-
-## Labels
-<!-- retire os labels que não fazem sentido à vaga -->
-
-#### Alocação
-- Alocado
-- Remoto
+Costumamos enviar feedbacks em até 8 dias após cada processo.
+wpp para contato em caso de não haver resposta: 62984558527
 
 #### Regime
 - CLT
-- Estágio
-- Freela
-- PJ
+-
 
 #### Nível
 - Júnior
-- Pleno
-- Sênior
-- Especialista
+
 
 
